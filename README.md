@@ -3,7 +3,20 @@
 
 # Sentiment analysis Yandex reviews
 
-==============================
+In this project, I've worked with the Yandex reviews dataset, conducted analytics, and tested various models.
+
+| Model                  | precision | recall | f1-score |
+| ---------------------- | --------- | ------ | -------- |
+| MultinomialNB          | 0.64      | 0.71   | 0.67     |
+| LogisticRegression     | 0.84      | 0.73   | 0.77     |
+| RandomForestClassifier | 0.81      | 0.73   | 0.73     |
+| CatBoostClassifier     | 0.83      | 0.72   | 0.76     |
+| LGBMClassifier         | 0.82      | 0.68   | 0.73     |
+| XGBClassifier          | ?         | ?      | ?        |
+
+In the future, I plan to create an interactive map displaying the reviews.
+
+---
 
 ## Project Organization
 
@@ -23,7 +36,11 @@
 
 # Sentiment analysis Yandex reviews
 
-==============================
+В этом проекте я провел анализ датасета отзывов Яндекса и протестировал множество моделей.
+
+В будущем планирую создать интерактивную карту, на которой будут отображены отзывы.
+
+---
 
 ## Организация проекта
 
