@@ -12,7 +12,9 @@ In this project, I've worked with the Yandex reviews dataset, conducted analytic
 | RandomForestClassifier | 0.81      | 0.73   | 0.73     |
 | CatBoostClassifier     | 0.83      | 0.72   | 0.76     |
 | LGBMClassifier         | 0.82      | 0.68   | 0.73     |
-| XGBClassifier          | ?         | ?      | ?        |
+| XGBClassifier          | 0.77      | 0.53   | 0.61     |
+| RNN                    | 0.82      | 0.73   | 0.77     |
+| LSTM                   | 0.84      | 0.74   | 0.78     |
 
 In the future, I plan to create an interactive map displaying the reviews.
 
